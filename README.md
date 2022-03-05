@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://siddhantkumar052.netlify.app/](https://siddhantkumar052.netlify.app/)
 
-- 📫 How to reach me **siddhantkumar052@gmail.com**
+- 📫 How to reach me **smaske@stevens.edu**
 
-- 📄 Know about my experiences [resume.pdf](https://siddhantkumar052.netlify.app/resume.pdf)
+- 📄 Know about my experiences **[resume.pdf]**(https://siddhantkumar052.netlify.app/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
