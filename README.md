@@ -25,3 +25,5 @@
 <a href="https://codeforces.com/profile/sidd052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sidd052" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/siddhantkumar052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddhantkumar052" height="30" width="40" /></a>
 </p>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhantkumar052)](https://github.com/anuraghazra/github-readme-stats)
