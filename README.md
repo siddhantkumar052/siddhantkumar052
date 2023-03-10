@@ -47,4 +47,12 @@
 <a href="https://www.leetcode.com/siddhantkumar052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddhantkumar052" height="30" width="40" /></a>
 </p>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/siddhantkumar052/siddhantkumar052/blob/output/snake.svg" alt="Snake animation" />
+![image](https://user-images.githubusercontent.com/63947661/224395410-a11c55c5-d67c-4c4b-81de-2bfdd4ebdfea.png)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantkumar052&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
