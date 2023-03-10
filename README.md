@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Siddhant Kumar</h2>
-<h3 align="center">I am a aspiring Software Developer.</h3>
+<h3 align="center">I am a Software Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhantkumar052&label=Profile%20views&color=0e75b6&style=flat" alt="siddhantkumar052" /> </p>
 
