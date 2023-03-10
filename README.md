@@ -1,8 +1,6 @@
 <h2 align="center">Hi 👋, I'm Siddhant Kumar</h2>
 <h3 align="center">I am a Software Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhantkumar052&label=Profile%20views&color=0e75b6&style=flat" alt="siddhantkumar052" /> </p>
-
 - 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available on my portfolio: [https://siddhantkumar052.netlify.app/](https://siddhantkumar052.netlify.app/)
