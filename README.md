@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" width="42" alt="redux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" width="42" alt="heroku logo"  />
 </div>
-![image](https://user-images.githubusercontent.com/63947661/224394759-458649c7-dd21-483d-8ce5-2fb57ba0ec1d.png)
+
 
 
 
