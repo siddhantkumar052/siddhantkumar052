@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://siddhantkumar052.netlify.app/](https://siddhantkumar052.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://siddhantkumar052.netlify.app/](https://siddhantkumar052.netlify.app/Projects)
 
 - 📫 You can reach me at **smaske@stevens.edu**
 
-- 📄 Know about my experiences [resume](https://siddhantkumar052.netlify.app/Resume)
+- 📄 Know about my experiences [here](https://siddhantkumar052.netlify.app/Resume).
 
 
 <h3 align="left">Languages and Tools:</h3>
