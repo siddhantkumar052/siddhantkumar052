@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddhant Kumar</h1>
+<h2 align="center">Hi 👋, I'm Siddhant Kumar</h2>
 <h3 align="center">I am a aspiring Software Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhantkumar052&label=Profile%20views&color=0e75b6&style=flat" alt="siddhantkumar052" /> </p>
@@ -46,12 +46,6 @@
 <a href="https://codeforces.com/profile/sidd052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sidd052" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/siddhantkumar052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddhantkumar052" height="30" width="40" /></a>
 </p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/siddhantkumar052/siddhantkumar052/blob/output/snake.svg" alt="Snake animation" />
 
 
 
