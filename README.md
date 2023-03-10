@@ -9,7 +9,7 @@
 
 - 📫 You can reach me at **smaske@stevens.edu**
 
-- 📄 Know about my experiences [resume.pdf](https://siddhantkumar052.netlify.app/resume.pdf)
+- 📄 Know about my experiences [resume.pdf](https://siddhantkumar052.netlify.app/Resume)
 
 
 <h3 align="left">Languages and Tools:</h3>
