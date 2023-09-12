@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available on my portfolio: [siddhantkumar.dev](https://siddhantkumar.dev/)
 
