@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available on my portfolio: [https://siddhantkumar052.netlify.app/](https://siddhantkumar052.netlify.app/)
+- 👨‍💻 All of my projects are available on my portfolio: [siddhantkumar.dev](https://siddhantkumar.dev/)
 
 - 📫 You can reach me at **smaske@stevens.edu**
 
