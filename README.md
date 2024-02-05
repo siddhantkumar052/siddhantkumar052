@@ -4,7 +4,7 @@ Hi 👋 My name is Siddhant kumar
 Welcome to my GitHub page! Here you'll find a collection of my projects and skills. I'm currently working at Henry Schein but I'm open for new opportunities.
 
 * 🖥️  See my portfolio at [siddhantkumar.dev](http://siddhantkumar.dev/)
-* ✉️  You can contact me at [siddhantmaske@gmail.com](mailto: siddhantmaske@gmail.com)
+* ✉️  You can contact me at [siddhantmaske@gmail.com](mailto:siddhantmaske@gmail.com)
 * 🧠  I'm learning Next.js
 
 ### Skills
