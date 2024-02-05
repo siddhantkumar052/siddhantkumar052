@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Siddhant Kumar</h2>
-Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm currently seeking a full-time SDE opportunity starting from May 2023. Feel free to explore and get in touch!
+Welcome to my GitHub page! Here you'll find a collection of my projects and skills I'm currently seeking a full-time SDE opportunity. 
 
 
 
@@ -7,7 +7,7 @@ Welcome to my GitHub page! Here you'll find a collection of my projects, skills,
 
 - 👨‍💻 All of my projects are available on my portfolio: [siddhantkumar.dev](https://siddhantkumar.dev/)
 
-- 📫 You can reach me at **smaske@stevens.edu**
+- 📫 You can reach me at **siddhantmaske@gmail.com**
 
 - 📄 Know about my experiences [here](https://siddhantkumar052.netlify.app/Resume).
 
@@ -33,7 +33,6 @@ Welcome to my GitHub page! Here you'll find a collection of my projects, skills,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" width="42" alt="redux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" width="42" alt="heroku logo"  />
 </div>
-
 
 
 
