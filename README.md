@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Siddhant Kumar</h2>
-<h3 align="center">I am a Software Developer.</h3>
+
 
 
 
